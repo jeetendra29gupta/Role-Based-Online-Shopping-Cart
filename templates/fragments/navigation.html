@@ -1,0 +1,33 @@
+<nav class="menu">
+    <a href="{{ url_for('user.index') }}">🏠 Home</a>
+
+
+    {% if session.get("user_id") %}
+
+        {% if session.get("role") == "admin" %}
+            <hr class="menu-divider">
+            <a href="{{ url_for('admin.dashboard') }}">👥 Users</a>
+            <a href="{{ url_for('seller.dashboard') }}">📦 Inventory</a>
+            <a href="{{ url_for('customer.dashboard') }}">🛒 My Cart</a>
+
+        {% elif session.get("role") == "seller" %}
+            <hr class="menu-divider">
+            <a href="{{ url_for('seller.dashboard') }}">📦 Inventory</a>
+            <a href="{{ url_for('customer.dashboard') }}">🛒 My Cart</a>
+
+        {% elif session.get("role") == "customer" %}
+            <hr class="menu-divider">
+            <a href="{{ url_for('customer.dashboard') }}">🛒 My Cart</a>
+
+        {% endif %}
+        <hr class="menu-divider">
+        <a href="{{ url_for('auth.logout') }}" title="{{ session.get("full_name") | title }}">👤 Profile</a>
+        <a href="{{ url_for('auth.logout') }}">🚪 Logout</a>
+
+    {% else %}
+        <hr class="menu-divider">
+        <a href="{{ url_for('auth.login') }}">🔐 Login</a>
+        <a href="{{ url_for('auth.signup') }}">📝 Signup</a>
+    {% endif %}
+
+</nav>

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %} Index Page {% endblock %}
+
+{% block body %}
+
+    <!-- Header -->
+    {% include "fragments/header.html" %}
+
+    <!-- Page Layout -->
+    <div class="container">
+
+        <!-- Menu -->
+        {% include "fragments/navigation.html" %}
+
+        <!-- Main Content -->
+        <div class="content">
+            {% include "fragments/messages.html" %}
+
+            <main class="landing-card">
+                <h2>Welcome to Online Shopping Cart 🛒</h2>
+                <p>
+                    A secure, role-based shopping platform built with Flask & SQLModel.
+                </p>
+
+                <div class="landing-actions">
+                    <a href="#">Cart</a>
+                </div>
+            </main>
+        </div>
+
+    </div>
+
+{% endblock %}

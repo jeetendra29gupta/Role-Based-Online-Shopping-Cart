@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %} Update Inventory {% endblock %}
+
+{% block body %}
+{% include "fragments/header.html" %}
+
+<div class="container">
+    {% include "fragments/navigation.html" %}
+
+    <div class="content">
+        {% include "fragments/messages.html" %}
+
+        <main class="landing-card">
+            <h2>Update Product ✏️</h2>
+            <p>Update your inventory item</p>
+
+            <form class="auth-form"
+                  method="post"
+                  enctype="multipart/form-data">
+
+                <div class="form-group">
+                    <label>Name</label>
+                    <input type="text" name="name"
+                           value="{{ inventory.name }}" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Description</label>
+                    <textarea name="description"
+                              class="form-textarea"
+                              rows="4"
+                              required>{{ inventory.description }}</textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Price ($)</label>
+                    <input type="number"
+                           step="0.01"
+                           name="price"
+                           value="{{ inventory.price }}"
+                           required>
+                </div>
+
+                <div class="form-group">
+                    <label>Quantity</label>
+                    <input type="number"
+                           name="quantity"
+                           value="{{ inventory.quantity }}"
+                           min="0"
+                           required>
+                </div>
+
+                <div class="form-group">
+                    <label>Update Image</label>
+                    <input type="file"
+                           name="image"
+                           accept="image/*">
+                </div>
+
+                {% if inventory.image %}
+                <div class="image-preview">
+                    <img src="{{ url_for('static', filename='uploads/' + inventory.image) }}">
+                </div>
+                {% endif %}
+
+                <button type="submit">Update Product</button>
+            </form>
+        </main>
+    </div>
+</div>
+{% endblock %}

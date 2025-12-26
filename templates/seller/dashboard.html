@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% block title %} Seller Dashboard {% endblock %}
+
+{% block body %}
+
+    {% include "fragments/header.html" %}
+
+    <div class="container">
+
+        {% include "fragments/navigation.html" %}
+
+        <div class="content">
+            {% include "fragments/messages.html" %}
+
+            <div class="dashboard-header">
+                <h2>My Inventory 📦</h2>
+
+                <div class="dashboard-actions">
+                    <form method="get" class="inventory-search">
+                        <input type="text"
+                               name="q"
+                               placeholder="Search products..."
+                               value="{{ request.args.get('q', '') }}">
+                    </form>
+
+                    <form method="get" class="inventory-sort">
+                        <select name="sort" onchange="this.form.submit()">
+                            <option value="">Sort By</option>
+                            <option value="name_asc"
+                                    {{ 'selected' if request.args.get('sort') == 'name_asc' }}>
+                                Name (A–Z)
+                            </option>
+                            <option value="name_desc"
+                                    {{ 'selected' if request.args.get('sort') == 'name_desc' }}>
+                                Name (Z–A)
+                            </option>
+                            <option value="price_asc"
+                                    {{ 'selected' if request.args.get('sort') == 'price_asc' }}>
+                                Price (Low → High)
+                            </option>
+                            <option value="price_desc"
+                                    {{ 'selected' if request.args.get('sort') == 'price_desc' }}>
+                                Price (High → Low)
+                            </option>
+                            <option value="date_desc"
+                                    {{ 'selected' if request.args.get('sort') == 'date_desc' }}>
+                                Newest First
+                            </option>
+                            <option value="date_asc"
+                                    {{ 'selected' if request.args.get('sort') == 'date_asc' }}>
+                                Oldest First
+                            </option>
+                        </select>
+                    </form>
+
+                    <a href="{{ url_for('seller.add_inventory') }}" class="btn-add">
+                        ➕ Add Product
+                    </a>
+                </div>
+            </div>
+
+            <div class="inventory-grid">
+                {% for item in inventories %}
+                    <div class="inventory-card">
+                        <img src="{{ url_for('static', filename='uploads/' ~ item.image) }}"
+                             alt="{{ item.name }}">
+
+                        <h3>{{ item.name }}</h3>
+
+                        <p class="inventory-desc">
+                            {{ item.description }}
+                        </p>
+
+                        <div class="inventory-footer">
+                            <span class="price">$ {{ "%.2f"|format(item.price) }}</span>
+                            <span class="qty">Qty: {{ item.quantity }}</span>
+                        </div>
+
+                        <div class="inventory-actions">
+                            <a href="{{ url_for('seller.update_inventory', item_id=item.id) }}" class="btn-edit">
+                                ✏️ Update
+                            </a>
+                            <form method="post"
+                                  action="{{ url_for('seller.delete_inventory', item_id=item.id) }}"
+                                  onsubmit="return confirm('Are you sure you want to remove this item?');">
+                                <button type="submit" class="btn-delete">
+                                    🗑 Remove
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                {% else %}
+                    <p>You have not added any inventory yet.</p>
+                {% endfor %}
+            </div>
+
+            <div class="pagination">
+                {% if page > 1 %}
+                    <a href="{{ url_for('seller.dashboard', page=page-1, q=search_query) }}">« Previous</a>
+                {% endif %}
+
+                {% for p in range(1, total_pages + 1) %}
+                    {% if p == page %}
+                        <span class="current">{{ p }}</span>
+                    {% else %}
+                        <a href="{{ url_for('seller.dashboard', page=p, q=search_query) }}">{{ p }}</a>
+                    {% endif %}
+                {% endfor %}
+
+                {% if page < total_pages %}
+                    <a href="{{ url_for('seller.dashboard', page=page+1, q=search_query) }}">Next »</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

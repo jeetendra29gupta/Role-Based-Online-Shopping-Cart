@@ -1,0 +1,15 @@
+python-dotenv
+
+flask
+
+sqlmodel
+pydantic
+email-validator
+
+bcrypt
+
+markdown2
+
+httpx
+pytest
+ruff

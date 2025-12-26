@@ -1,0 +1,687 @@
+2025-12-25 14:36:49,749 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 14:36:50,451 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 14:37:56,975 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:37:56,975 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:37:57,235 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 14:37:57,236 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:38:08,963 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:38:08,969 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:38:08,972 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:38:08,972 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:38:39,430 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:38:39,430 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:38:39,430 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:38:39,437 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:40:22,735 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:40:22,736 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:40:22,744 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:40:22,746 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:43:37,132 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:43:37,132 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:43:37,140 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:43:37,142 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:44:16,232 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:44:16,232 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:44:16,237 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:44:16,239 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:44:28,753 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:44:28,754 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:44:28,766 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:44:28,767 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:44:37,348 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:44:37,349 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:44:37,360 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:44:37,361 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:46:06,349 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:46:06,350 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:46:06,360 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:46:06,362 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:46:47,356 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:46:47,357 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:46:47,365 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:46:47,365 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:47:41,153 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:47:41,155 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:47:41,158 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:47:41,158 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:48:09,944 | INFO | src.routes.user | user.py:82 | User created successfully
+2025-12-25 14:50:13,567 | INFO | src.routes.user | user.py:82 | User created successfully
+2025-12-25 14:55:11,787 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:55:11,787 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:55:11,800 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:55:11,802 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:56:16,234 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:56:16,235 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:56:16,243 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:56:16,244 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:57:09,711 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:57:09,711 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:57:09,716 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:57:09,716 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:57:15,894 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:57:15,896 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:57:15,908 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:57:15,909 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:58:16,346 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:58:16,347 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:58:16,356 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:58:16,357 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 14:58:52,099 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 14:58:52,099 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 14:58:52,106 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 14:58:52,110 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:32:30,489 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:32:30,489 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:32:30,496 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:32:30,497 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:32:30,956 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:32:30,956 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:32:30,961 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:32:30,961 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:37:28,701 | INFO | src.routes.auth | auth.py:133 | Customer logged in successfully: db_user.full_name
+2025-12-25 15:37:28,702 | ERROR | src.routes.auth | auth.py:141 | Could not build url for endpoint 'user.dashboard'. Did you mean 'user.login' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 134, in login
+    return redirect(url_for("user.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'user.dashboard'. Did you mean 'user.login' instead?
+2025-12-25 15:38:55,428 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:38:55,428 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:38:55,705 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 15:38:55,706 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:39:00,338 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:39:00,338 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:39:00,346 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:39:00,346 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:39:19,731 | INFO | src.routes.auth | auth.py:74 | User created successfully Sameer Gupta
+2025-12-25 15:40:24,078 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:40:24,078 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:40:24,078 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:40:24,086 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:40:54,042 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:40:54,042 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:40:54,046 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:40:54,048 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:40:54,543 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:40:54,544 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:40:54,553 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:40:54,554 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:41:55,461 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:41:55,464 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:41:55,727 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 15:41:55,728 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:41:56,172 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:41:56,172 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:41:56,465 | INFO | src.utilities.database | database.py:45 | Admin created successfully
+2025-12-25 15:41:56,466 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:42:01,077 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:42:01,077 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:42:01,083 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:42:01,087 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:42:13,650 | INFO | src.routes.auth | auth.py:74 | User created successfully Sameer Gupta
+2025-12-25 15:42:49,818 | INFO | src.routes.auth | auth.py:74 | User created successfully Prince Gupta
+2025-12-25 15:42:58,637 | INFO | src.routes.auth | auth.py:133 | Customer logged in successfully: db_user.full_name
+2025-12-25 15:42:58,638 | ERROR | src.routes.auth | auth.py:141 | Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 134, in login
+    return redirect(url_for("user.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+2025-12-25 15:44:56,444 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:44:56,445 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:44:56,455 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:44:56,457 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:51:38,787 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:51:38,788 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:51:38,799 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:51:38,800 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:53:24,033 | INFO | __main__ | main.py:26 | Application is starting
+2025-12-25 15:53:24,033 | INFO | __main__ | main.py:28 | Initializing database
+2025-12-25 15:53:24,044 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:53:24,045 | INFO | __main__ | main.py:30 | Application started on 0.0.0.0:8181
+2025-12-25 15:53:26,222 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 15:54:27,978 | INFO | src.routes.auth | auth.py:134 | Customer logged in successfully: db_user.full_name
+2025-12-25 15:54:27,979 | ERROR | src.routes.auth | auth.py:142 | Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 135, in login
+    return redirect(url_for("user.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+2025-12-25 15:54:46,043 | INFO | src.routes.auth | auth.py:134 | Customer logged in successfully: db_user.full_name
+2025-12-25 15:54:46,044 | ERROR | src.routes.auth | auth.py:142 | Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 135, in login
+    return redirect(url_for("user.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'user.dashboard'. Did you mean 'auth.login' instead?
+2025-12-25 15:57:04,214 | INFO | __main__ | main.py:28 | Application is starting
+2025-12-25 15:57:04,214 | INFO | __main__ | main.py:30 | Initializing database
+2025-12-25 15:57:04,219 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:57:04,220 | INFO | __main__ | main.py:32 | Application started on 0.0.0.0:8181
+2025-12-25 15:57:14,888 | INFO | src.routes.auth | auth.py:134 | Customer logged in successfully: Prince Gupta
+2025-12-25 15:57:47,466 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 15:57:59,133 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 15:57:59,134 | ERROR | src.routes.auth | auth.py:142 | Could not build url for endpoint 'admin.dashboard'. Did you mean 'user.dashboard' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 127, in login
+    return redirect(url_for("admin.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'admin.dashboard'. Did you mean 'user.dashboard' instead?
+2025-12-25 15:59:07,047 | INFO | __main__ | main.py:28 | Application is starting
+2025-12-25 15:59:07,047 | INFO | __main__ | main.py:30 | Initializing database
+2025-12-25 15:59:07,059 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:59:07,060 | INFO | __main__ | main.py:32 | Application started on 0.0.0.0:8181
+2025-12-25 15:59:18,259 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 15:59:18,260 | ERROR | src.routes.auth | auth.py:142 | Could not build url for endpoint 'admin.dashboard'. Did you mean 'user.dashboard' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 127, in login
+    return redirect(url_for("admin.dashboard"))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'admin.dashboard'. Did you mean 'user.dashboard' instead?
+2025-12-25 15:59:40,382 | INFO | __main__ | main.py:30 | Application is starting
+2025-12-25 15:59:40,383 | INFO | __main__ | main.py:32 | Initializing database
+2025-12-25 15:59:40,392 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 15:59:40,393 | INFO | __main__ | main.py:34 | Application started on 0.0.0.0:8181
+2025-12-25 15:59:54,465 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:02:04,754 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:12:54,013 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:12:54,013 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:12:54,029 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:12:54,029 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:12:54,478 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:12:54,478 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:12:54,481 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:12:54,481 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:13:07,347 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:16:49,018 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:16:59,118 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:17:22,486 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:21:36,004 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:21:54,596 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:22:08,984 | INFO | src.routes.auth | auth.py:130 | Seller logged in successfully: Sameer Gupta
+2025-12-25 16:22:21,087 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:22:33,048 | INFO | src.routes.auth | auth.py:134 | Customer logged in successfully: Prince Gupta
+2025-12-25 16:25:14,033 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:25:25,562 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:25:33,116 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:25:41,831 | INFO | src.routes.auth | auth.py:130 | Seller logged in successfully: Sameer Gupta
+2025-12-25 16:30:34,759 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:30:44,984 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:32:35,431 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:32:35,431 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:32:35,435 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:32:35,436 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:33:55,134 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:33:55,134 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:33:55,139 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:33:55,140 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:38:56,910 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:38:56,911 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:38:56,915 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:38:56,916 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:38:57,358 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:38:57,359 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:38:57,363 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:38:57,363 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:39:05,425 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:39:17,726 | INFO | src.routes.auth | auth.py:130 | Seller logged in successfully: Sameer Gupta
+2025-12-25 16:40:34,038 | INFO | src.routes.auth | auth.py:152 | User logged out successfully: None
+2025-12-25 16:40:42,326 | INFO | src.routes.auth | auth.py:126 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:46:02,128 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:46:02,129 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:46:02,141 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:46:02,142 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:46:02,252 | INFO | src.routes.auth | auth.py:156 | User logged out successfully: None
+2025-12-25 16:46:09,884 | INFO | src.routes.auth | auth.py:128 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:46:40,516 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:46:40,517 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:46:40,528 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:46:40,529 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:46:40,617 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-25 16:46:49,937 | INFO | src.routes.auth | auth.py:128 | Admin logged in successfully: Jeetendra Gupta
+2025-12-25 16:47:17,969 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-25 16:47:31,726 | INFO | src.routes.auth | auth.py:133 | Seller logged in successfully: Sameer Gupta
+2025-12-25 16:47:48,468 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-25 16:47:58,212 | INFO | src.routes.auth | auth.py:138 | Customer logged in successfully: Prince Gupta
+2025-12-25 16:48:23,378 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-25 16:48:39,099 | INFO | src.routes.auth | auth.py:133 | Seller logged in successfully: Sameer Gupta
+2025-12-25 16:55:45,915 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:55:45,916 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:55:45,931 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:55:45,933 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:56:57,663 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:56:57,663 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:56:57,673 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:56:57,675 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:57:14,222 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:57:14,223 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:57:14,233 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:57:14,234 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:57:41,855 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:57:41,856 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:57:41,858 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:57:41,860 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:57:51,235 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:57:51,235 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:57:51,245 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:57:51,246 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 16:58:10,858 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 16:58:10,859 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 16:58:10,867 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 16:58:10,868 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:06:24,641 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:06:24,641 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:06:24,646 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:06:24,647 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:06:25,084 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:06:25,087 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:06:25,089 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:06:25,089 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:17:27,092 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:17:27,094 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:17:27,105 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:17:27,106 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:17:44,991 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:17:44,993 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:17:45,007 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:17:45,008 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:19:01,600 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:19:01,600 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:19:01,612 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:19:01,613 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:19:22,530 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:19:22,530 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:19:22,545 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:19:22,546 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:20:36,547 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:20:36,548 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:20:36,560 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:20:36,562 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:20:52,384 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:20:52,385 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:20:52,391 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:20:52,392 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:21:13,950 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:21:13,951 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:21:13,961 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:21:13,962 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:21:36,876 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:21:36,876 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:21:36,891 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:21:36,894 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:22:45,639 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:22:45,640 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:22:45,647 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:22:45,648 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:23:08,826 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:23:08,827 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:23:08,839 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:23:08,840 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:23:22,937 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:23:22,937 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:23:22,942 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:23:22,942 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:24:42,527 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:24:42,528 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:24:42,537 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:24:42,537 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:25:24,204 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:25:24,205 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:25:24,213 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:25:24,214 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:26:53,569 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:26:53,569 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:26:53,573 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:26:53,574 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:27:21,369 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:27:21,370 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:27:21,376 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:27:21,378 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:28:12,087 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:28:12,088 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:28:12,093 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:28:12,093 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:29:24,875 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:29:24,876 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:29:24,915 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:29:24,915 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:30:11,240 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:30:11,240 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:30:11,246 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:30:11,246 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:32:18,080 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:32:18,081 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:32:18,097 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:32:18,099 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:32:29,531 | INFO | __main__ | main.py:32 | Application is starting
+2025-12-25 17:32:29,531 | INFO | __main__ | main.py:34 | Initializing database
+2025-12-25 17:32:29,546 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 17:32:29,547 | INFO | __main__ | main.py:36 | Application started on 0.0.0.0:8181
+2025-12-25 17:33:38,588 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Wireless Headphones
+2025-12-25 17:35:49,802 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Smart Water Bottle
+2025-12-25 17:37:29,152 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Portable Power Bank
+2025-12-25 18:53:01,481 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Bluetooth Speaker
+2025-12-25 18:53:43,845 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Laptop Backpack
+2025-12-25 18:54:21,666 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Desk LED Lamp
+2025-12-25 18:54:52,958 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Fitness Tracker
+2025-12-25 18:55:29,107 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Wireless Mouse
+2025-12-25 18:56:12,007 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Stainless Steel Tumbler
+2025-12-25 18:56:42,830 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Phone Stand Holder
+2025-12-25 18:58:52,019 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Wireless Headphones
+2025-12-25 18:59:31,907 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Smart Water Bottle
+2025-12-25 19:00:04,918 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Portable Power Bank
+2025-12-25 19:00:41,220 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Bluetooth Speaker
+2025-12-25 19:01:16,212 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Laptop Backpack
+2025-12-25 19:01:46,817 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Desk LED Lamp
+2025-12-25 19:02:22,383 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Fitness Tracker
+2025-12-25 19:03:02,224 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Wireless Mouse
+2025-12-25 19:03:35,325 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Stainless Steel Tumbler
+2025-12-25 19:04:43,624 | INFO | src.routes.seller | seller.py:108 | Inventory added by seller 2: Phone Stand Holder
+2025-12-25 19:10:01,390 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:10:01,390 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:10:01,396 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:10:01,396 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:10:01,839 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:10:01,839 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:10:01,846 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:10:01,846 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:14:42,124 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-25 19:19:09,659 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:19:09,660 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:19:09,671 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:19:09,672 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:21:04,513 | INFO | src.routes.auth | auth.py:133 | Seller logged in successfully: Sameer Gupta
+2025-12-25 19:26:49,544 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:26:49,545 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:26:49,562 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:26:49,563 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:27:03,137 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:27:03,137 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:27:03,152 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:27:03,153 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:27:24,738 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:27:24,738 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:27:24,754 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:27:24,757 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:28:18,833 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:28:18,835 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:28:18,849 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:28:18,850 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:29:39,715 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:29:39,715 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:29:39,729 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:29:39,730 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:40:43,522 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:40:43,522 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:40:43,528 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:40:43,528 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:40:43,973 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:40:43,973 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:40:43,982 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:40:43,983 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:40:52,554 | INFO | src.routes.seller | seller.py:167 | Inventory 'Wireless Headphones' removed successfully
+2025-12-25 19:41:01,495 | INFO | src.routes.seller | seller.py:167 | Inventory 'Desk LED Lamp' removed successfully
+2025-12-25 19:41:09,138 | INFO | src.routes.seller | seller.py:167 | Inventory 'Wireless Headphones' removed successfully
+2025-12-25 19:41:23,011 | INFO | src.routes.seller | seller.py:167 | Inventory 'Bluetooth Speaker' removed successfully
+2025-12-25 19:42:21,871 | INFO | src.routes.seller | seller.py:167 | Inventory 'Portable Power Bank' removed successfully
+2025-12-25 19:46:02,420 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:46:02,421 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:46:02,440 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:46:02,441 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:46:17,073 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:46:17,073 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:46:17,097 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:46:17,097 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:48:25,826 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:48:25,827 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:48:25,842 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:48:25,843 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:48:59,606 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:48:59,606 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:48:59,617 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:48:59,618 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:49:37,534 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:49:37,535 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:49:37,549 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:49:37,551 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:50:11,503 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:50:11,503 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:50:11,516 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:50:11,516 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:50:46,507 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:50:46,508 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:50:46,517 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:50:46,517 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:51:23,432 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:51:23,432 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:51:23,450 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:51:23,452 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:59:58,381 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:59:58,382 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:59:58,388 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:59:58,388 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 19:59:58,851 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 19:59:58,852 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 19:59:58,856 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 19:59:58,856 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:00:42,566 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:00:42,568 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:00:42,584 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:00:42,585 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:01:39,022 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:01:39,022 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:01:39,036 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:01:39,036 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:02:15,252 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:02:15,253 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:02:15,261 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:02:15,263 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:03:58,889 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:03:58,890 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:03:58,897 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:03:58,897 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:04:38,352 | INFO | src.routes.seller | seller.py:236 | Inventory updated: 20
+2025-12-25 20:04:59,640 | INFO | src.routes.seller | seller.py:183 | Inventory 'Phone Stand Holder' removed successfully
+2025-12-25 20:05:34,285 | INFO | src.routes.seller | seller.py:236 | Inventory updated: 20
+2025-12-25 20:05:53,246 | INFO | src.routes.seller | seller.py:236 | Inventory updated: 20
+2025-12-25 20:10:17,937 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:10:17,938 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:10:17,949 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:10:17,949 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:10:46,049 | INFO | src.routes.seller | seller.py:238 | Inventory updated: 20
+2025-12-25 20:12:34,704 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:12:34,705 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:12:34,711 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:12:34,712 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:12:54,382 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:12:54,383 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:12:54,394 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:12:54,397 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:13:10,796 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:13:10,797 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:13:10,798 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:13:10,798 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:13:43,903 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:13:43,904 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:13:43,921 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:13:43,923 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:13:53,409 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:13:53,410 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:13:53,428 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:13:53,428 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:14:00,778 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:14:00,778 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:14:00,794 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:14:00,795 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:14:22,276 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:14:22,277 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:14:22,282 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:14:22,282 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:14:51,191 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:14:51,192 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:14:51,206 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:14:51,206 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:15:07,851 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:15:07,852 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:15:07,864 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:15:07,864 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:16:34,065 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:16:34,066 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:16:34,080 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:16:34,081 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:18:20,041 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:18:20,041 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:18:20,056 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:18:20,056 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:18:20,497 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-25 20:18:20,497 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-25 20:18:20,502 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-25 20:18:20,502 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-25 20:22:30,794 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-26 09:25:14,815 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-26 09:25:14,815 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-26 09:25:14,826 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:25:14,826 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-26 09:25:15,314 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-26 09:25:15,316 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-26 09:25:15,321 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:25:15,322 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-26 09:26:06,696 | INFO | src.routes.auth | auth.py:133 | Seller logged in successfully: Sameer Gupta
+2025-12-26 09:27:34,396 | ERROR | src.routes.seller | seller.py:250 | [WinError 2] The system cannot find the file specified: 'static/uploads\\Phone_Stand_Holder_2025_12_25_13_26_42.png'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\seller.py", line 239, in update_inventory
+    os.remove(old_image_path)
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'static/uploads\\Phone_Stand_Holder_2025_12_25_13_26_42.png'
+2025-12-26 09:31:19,480 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-26 09:31:19,481 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-26 09:31:19,493 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:31:19,498 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-26 09:31:48,855 | INFO | __main__ | main.py:41 | Application is starting
+2025-12-26 09:31:48,855 | INFO | __main__ | main.py:43 | Initializing database
+2025-12-26 09:31:48,863 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:31:48,863 | INFO | __main__ | main.py:45 | Application started on 0.0.0.0:8181
+2025-12-26 09:32:11,706 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-26 09:34:51,085 | INFO | __main__ | main.py:45 | Application is starting
+2025-12-26 09:34:51,086 | INFO | __main__ | main.py:47 | Initializing database
+2025-12-26 09:34:51,096 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:34:51,101 | INFO | __main__ | main.py:49 | Application started on 0.0.0.0:8181
+2025-12-26 09:35:09,850 | INFO | __main__ | main.py:45 | Application is starting
+2025-12-26 09:35:09,850 | INFO | __main__ | main.py:47 | Initializing database
+2025-12-26 09:35:09,864 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:35:09,865 | INFO | __main__ | main.py:49 | Application started on 0.0.0.0:8181
+2025-12-26 09:35:25,620 | INFO | __main__ | main.py:47 | Application is starting
+2025-12-26 09:35:25,620 | INFO | __main__ | main.py:49 | Initializing database
+2025-12-26 09:35:25,640 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:35:25,642 | INFO | __main__ | main.py:51 | Application started on 0.0.0.0:8181
+2025-12-26 09:35:41,264 | INFO | __main__ | main.py:48 | Application is starting
+2025-12-26 09:35:41,264 | INFO | __main__ | main.py:50 | Initializing database
+2025-12-26 09:35:41,282 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:35:41,283 | INFO | __main__ | main.py:52 | Application started on 0.0.0.0:8181
+2025-12-26 09:35:50,754 | INFO | __main__ | main.py:48 | Application is starting
+2025-12-26 09:35:50,758 | INFO | __main__ | main.py:50 | Initializing database
+2025-12-26 09:35:50,774 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:35:50,774 | INFO | __main__ | main.py:52 | Application started on 0.0.0.0:8181
+2025-12-26 09:49:39,550 | INFO | __main__ | main.py:48 | Application is starting
+2025-12-26 09:49:39,551 | INFO | __main__ | main.py:50 | Initializing database
+2025-12-26 09:49:39,569 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:49:39,570 | INFO | __main__ | main.py:52 | Application started on 0.0.0.0:8181
+2025-12-26 09:52:17,569 | INFO | __main__ | main.py:27 | Application is starting
+2025-12-26 09:52:17,569 | INFO | __main__ | main.py:29 | Initializing database
+2025-12-26 09:52:17,585 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:52:17,585 | INFO | __main__ | main.py:31 | Application started on 0.0.0.0:8181
+2025-12-26 09:54:58,803 | INFO | src.routes.auth | auth.py:128 | Admin logged in successfully: Jeetendra Gupta
+2025-12-26 09:54:58,804 | ERROR | src.routes.auth | auth.py:148 | Could not build url for endpoint 'index'. Did you mean 'user.index' instead?
+Traceback (most recent call last):
+  File "C:\Users\Admin\Workspace\PythonProject\src\routes\auth.py", line 145, in login
+    return redirect(url_for("index"))
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\helpers.py", line 239, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Workspace\PythonProject\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'index'. Did you mean 'user.index' instead?
+2025-12-26 09:56:01,463 | INFO | __main__ | main.py:27 | Application is starting
+2025-12-26 09:56:01,467 | INFO | __main__ | main.py:29 | Initializing database
+2025-12-26 09:56:01,473 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:56:01,474 | INFO | __main__ | main.py:31 | Application started on 0.0.0.0:8181
+2025-12-26 09:56:09,864 | INFO | __main__ | main.py:27 | Application is starting
+2025-12-26 09:56:09,865 | INFO | __main__ | main.py:29 | Initializing database
+2025-12-26 09:56:09,873 | INFO | src.utilities.database | database.py:30 | Admin already exists
+2025-12-26 09:56:09,873 | INFO | __main__ | main.py:31 | Application started on 0.0.0.0:8181
+2025-12-26 09:56:18,564 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-26 09:56:31,186 | INFO | src.routes.auth | auth.py:128 | Admin logged in successfully: Jeetendra Gupta
+2025-12-26 09:56:40,447 | INFO | src.routes.auth | auth.py:157 | User logged out successfully: None
+2025-12-26 09:56:50,694 | INFO | src.routes.auth | auth.py:133 | Seller logged in successfully: Sameer Gupta

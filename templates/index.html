@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %} Index Page {% endblock %}
+
+{% block body %}
+
+    <!-- Header -->
+    {% include "fragments/header.html" %}
+
+    <!-- Page Layout -->
+    <div class="container">
+
+        <!-- Menu -->
+        {% include "fragments/navigation.html" %}
+
+        <!-- Main Content -->
+        <div class="content">
+            {% include "fragments/messages.html" %}
+
+            <div class="inventory-grid" id="inventoryGrid">
+                {% for item in inventories %}
+                    <div class="inventory-card">
+                        <img src="{{ url_for('static', filename='uploads/' ~ item.image) }}"
+                             alt="{{ item.name }}">
+
+                        <h3>{{ item.name }}</h3>
+                        <p class="inventory-desc">
+                            {{ item.description }}
+                        </p>
+
+                        <div class="inventory-footer">
+                            <span class="price">$ {{ "%.2f"|format(item.price) }}</span>
+                            <span class="qty">Qty: {{ item.quantity }}</span>
+                        </div>
+                    </div>
+                {% else %}
+                    <p>No products available.</p>
+                {% endfor %}
+            </div>
+            <div id="loading" style="display:none; text-align:center; margin:20px;">
+                Loading more products...
+            </div>
+
+        </div>
+
+    </div>
+
+    <script>
+        window.currentPage = {{ page }};
+    </script>
+{% endblock %}

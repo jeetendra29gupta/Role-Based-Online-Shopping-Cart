@@ -1,0 +1,15 @@
+<header class="header">
+    <div class="header-left">
+        <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Logo">
+        <div>
+            <h1>Online Shopping Cart</h1>
+            <p>Role Based Online Shopping Cart</p>
+        </div>
+    </div>
+    <div class="header-right">
+        <p id="datetime"></p>
+        {% if session.get("user_id") %}
+            <p><strong>{{ session.get("full_name") | title }}</strong></p>
+        {% endif %}
+    </div>
+</header>
